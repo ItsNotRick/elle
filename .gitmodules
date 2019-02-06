@@ -1,9 +1,0 @@
-[submodule "elle-mobile-game"]
-	path = elle-mobile-game
-	url = https://github.com/ItsNotRick/elle-mobile-game
-[submodule "elle-web-service"]
-	path = elle-web-service
-	url = https://github.com/ItsNotRick/elle-web-service
-[submodule "elle-web-portal"]
-	path = elle-web-portal
-	url = https://github.com/ItsNotRick/elle-web-portal
