@@ -5,9 +5,6 @@ Git submodules: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
 ## Instructions for Download:
 `git clone --init --recursive https://github.com/ItsNotRick/elle.git`
+`chmod +x ./elle/scripts/clone_all.sh`  
+`./elle/scripts/clone_all.sh`  
 
-## Instructions for Updating Submodules:
-Either always run this after `git pull`:  
-`git submodule update --init`  
-or to avoid always typing this:  
-`git config --global submodule.recurse true`
