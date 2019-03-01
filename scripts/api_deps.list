@@ -1,0 +1,7 @@
+[system]
+python
+[pip]
+flask
+flask_restful
+flask_jwt_extended
+flask_mysql
