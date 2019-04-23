@@ -1,6 +1,6 @@
 # An overview of ELLE Ultimate
 ### Functionality:
-ELLE Ultimate consists of a database backed website and 3 games that connect to the website. Actions supported by the API include registering accounts, logging into an account, viewing decks available to an account, downloading a deck, creating a new deck, creating cards for a deck and uploading media for those cards. Basic telemetry data can be sent and reviewed using the api as well.
+ELLE Ultimate consists of a database-backed website and 3 games that connect to the website. Actions supported by the API include registering accounts, logging into an account, viewing decks available to an account, downloading a deck, creating a new deck, creating cards for a deck and uploading media for those cards. Basic telemetry data can be sent and reviewed using the api as well.
 
 ### Individual Components
 Read the readme of each of these projects to gain a better understanding of ELLE Ultimate as a whole.
