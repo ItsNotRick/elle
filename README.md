@@ -10,6 +10,7 @@ Website Backend: Python Flask backend\
 https://github.com/ItsNotRick/elle-web-service
 
 Website: ReactJS frontend\
+https://github.com/ItsNotRick/elle-web-portal \
 https://endlesslearner.com/home
 
 Apache server
